@@ -44,7 +44,7 @@
         <li class="active"><a href="#intro">Home</a></li>
         <li><a href="#about">The Team</a></li>
 		<li><a href="#planning">Path Planning</a></li>
-		<li><a href="#avoidance">Object Avoidance</a></li>
+		<li><a href="#avoidance">Obstacle Avoidance</a></li>
 		<li><a href="#collection">Ball Collection</a></li>
 		<li><a href="#labview">LabVIEW GUI</a></li>
 		<li><a href="https://github.com/kuobenj/GE423FP">Github</a></li>
@@ -183,7 +183,7 @@
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-            	The robot navigates the course using the A* path planning algorithm.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls.  The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course.  The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles.  Furthermore, an extra movement cost for turns was implemented to minimize the number of turns in the planned path.  As the robot moves through the course it uses LADAR measurements to detect new obstacles.  If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map.  A new path is also calculated if the robot diverges from the current path and collects a golf ball.  Finally, the robot calculates a new path to the next target waypoint once the target waypoint is reached.  This process repeats until the robot has reached all five waypoint in order to complete the course.
+            	The robot navigates the course using the A* path planning algorithm.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls.  The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course.  The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles.  Furthermore, an extra movement cost for turns is implemented to minimize the number of turns in the planned path.  As the robot moves through the course it uses LADAR measurements to detect new obstacles.  If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map.  A new path is also calculated if the robot diverges from the current path and collects a golf ball.  Finally, the robot calculates a new path to the next target waypoint once the current target waypoint is reached.  This process repeats until the robot has reached all five waypoints in order to complete the course.
             	</p>
             </div>
         </div>
@@ -205,7 +205,7 @@
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="wow bounceInDown" data-wow-delay="0.4s">
 					<div class="section-heading">
-					<h2>Object Avoidance</h2>
+					<h2>Obstacle Avoidance</h2>
 					<i class="fa fa-2x fa-angle-down"></i>
 
 					</div>
@@ -308,7 +308,7 @@
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-				In addition to the code and the physical design of the robot’s functionality, we developed a LabVIEW Virtual Instrument to provide us with visual feedback of the robot’s perspective. This was valuable for debugging by seeing where the robot thought it was in the course, and also providing data on what obstacles the robot was seeing. This LabVIEW VI talked to the robot via a wireless TCP/IP connection. The Robot acted as server transmitting the data and the LabVIEW VI. The data from the aspects listed above were all displayed on this interface. The robot’s position is printed and also rendered on the image. Of course, it was possible to also show the trail of the robot on the screen as well. The robot’s obstacle detection also helped feed data to the LabVIEW VI. We were able to accurately represent these on the VI as well. We were also able to display the locations of detected balls on the map and plot them as well on the VI. You can see the result of a run of the robot to the left. Finally we actually were able to update custom mapped parameters on the robot as well directly from the VI.
+				A LabVIEW Virtual Instrument was developed to provide visual feedback of the robot’s navigation through the course.  The VI displays the course map with walls and grid spaces, the robot’s current position with a trail of past positions, detected obstacles, and collected balls with their respective position and color.  This functionality is extremely valuable for debugging, especially for obstacle detection, because it provides visual data on what the robot was seeing.  The VI communicates with the robot via a wireless TCP/IP connection, so real-time data is able to be viewed while the robot navigates the course.
 				</p>
             </div>
         </div>
