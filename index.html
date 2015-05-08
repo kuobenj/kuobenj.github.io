@@ -119,8 +119,8 @@
                 <div class="team boxed-grey">
                     <div class="inner">
 						<h5>Brandon Gigous</h5>
-                        <p class="subtitle">Path Planning<br>Obstacle Avoidance</p>
-                        <div class="avatar"><img src="img/team/placeholder.jpg" alt="" class="img-responsive img-circle" /></div>
+                        <p class="subtitle">Path Planning<br>Obstacle Avoidance<br>Audio Feedback</p>
+                        <div class="avatar"><img src="img/team/brandon.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                     <div class="inner">
 						<h5>Benjamin "Status" Kuo</h5>
                         <p class="subtitle">LabVIEW<br>Ball Detection<br>Web Page</p>
-                        <div class="avatar"><img src="img/team/placeholder.jpg" alt="" class="img-responsive img-circle" /></div>
+                        <div class="avatar"><img src="img/team/status.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -143,8 +143,8 @@
                 <div class="team boxed-grey">
                     <div class="inner">
 						<h5>Ryan Newquist</h5>
-                        <p class="subtitle">Ball Detection<br>Ball Tracking</p>
-                        <div class="avatar"><img src="img/team/placeholder.jpg" alt="" class="img-responsive img-circle" /></div>
+                        <p class="subtitle">Ball Detection<br>Ball Tracking<br>Testing</p>
+                        <div class="avatar"><img src="img/team/ryan.jpg" alt="" class="img-responsive img-circle" /></div>
 
                     </div>
                 </div>
@@ -182,12 +182,14 @@
     <div class="row">
         <div class="col-lg-8">
             <div class="boxed-grey">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.
+            	<p>
+            	The robot navigates the course using the A* path planning algorithm.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls.  The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course.  The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles.  Furthermore, an extra movement cost for turns was implemented to minimize the number of turns in the planned path.  As the robot moves through the course it uses LADAR measurements to detect new obstacles.  If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map.  A new path is also calculated if the robot diverges from the current path and collects a golf ball.  Finally, the robot calculates a new path to the next target waypoint once the target waypoint is reached.  This process repeats until the robot has reached all five waypoint in order to complete the course.
+            	</p>
             </div>
         </div>
 		
 		<div class="col-lg-4">
-			<h2><img src="img/Untitled.png"></h2>
+			<h2><img style="width: 100%" src="img/Untitled.png"></h2>
 		</div>
     </div>	
 
@@ -215,11 +217,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
 		<div class="container">
     <div class="row">
 		<div class="col-lg-4">
-			<h2>Some Sort of Image Here</h2>
+			<h2><img style="width: 100%" src="img/obstacle.png"></h2>
 		</div>
         <div class="col-lg-8">
             <div class="boxed-grey">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.<br>
+            	<p>
+				The robot detects obstacles using LADAR measurements.  As the robot navigates the course, LADAR measurements are recorded, and the obstacle map is updated.  Extra distance is added to every LADAR measurement so that every data point is pushed into a definite grid space away from the robot.  Every LADAR sweep, the detection algorithm sums up the number of LADAR data points for each grid space and assigns a hit to a grid space if the sum is greater than a threshold.  If the number of hits for a grid space becomes greater than a threshold overtime, then the obstacle is detected and the obstacle map is updated.  This two-layered system adds robustness to the obstacle detection and minimizes false obstacle identifications.
+				</p>
             </div>
         </div>
 		
@@ -258,8 +262,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
 		</div>
         <div class="col-lg-8">
             <div class="boxed-grey">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.<br>
-<img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png">
+            	<p>
+				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.<br>
+				<img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png">
+				</p>
             </div>
         </div>
 		
@@ -301,7 +307,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
     <div class="row">
         <div class="col-lg-8">
             <div class="boxed-grey">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.
+            	<p>
+				In addition to the code and the physical design of the robot’s functionality, we developed a LabVIEW Virtual Instrument to provide us with visual feedback of the robot’s perspective. This was valuable for debugging by seeing where the robot thought it was in the course, and also providing data on what obstacles the robot was seeing. This LabVIEW VI talked to the robot via a wireless TCP/IP connection. The Robot acted as server transmitting the data and the LabVIEW VI. The data from the aspects listed above were all displayed on this interface. The robot’s position is printed and also rendered on the image. Of course, it was possible to also show the trail of the robot on the screen as well. The robot’s obstacle detection also helped feed data to the LabVIEW VI. We were able to accurately represent these on the VI as well. We were also able to display the locations of detected balls on the map and plot them as well on the VI. You can see the result of a run of the robot to the left. Finally we actually were able to update custom mapped parameters on the robot as well directly from the VI.
+				</p>
             </div>
         </div>
 		
