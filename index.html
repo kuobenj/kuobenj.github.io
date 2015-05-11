@@ -42,12 +42,21 @@
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#intro">Home</a></li>
-        <li><a href="#about">The Team</a></li>
+        <li><a href="#about">Team</a></li>
+        <li><a href="#results">Results</a></li>
 		<li><a href="#planning">Path Planning</a></li>
 		<li><a href="#avoidance">Obstacle Avoidance</a></li>
 		<li><a href="#collection">Ball Collection</a></li>
-		<li><a href="#labview">LabVIEW GUI</a></li>
+		<!-- <li><a href="#labview">LabVIEW GUI</a></li> -->
 		<!-- <li><a href="https://github.com/kuobenj/GE423FP">Github</a></li> -->
+		<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Extra Features <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#labview">LabVIEW GUI</a></li>
+            <li><a href="#audio">Audio Feedback</a></li>
+            <!-- <li><a href="#">Example menu</a></li> -->
+          </ul>
+        </li>
         <li class="dropdown">
           <a href="https://github.com/kuobenj/GE423FP" class="dropdown-toggle" data-toggle="dropdown">Code <b class="caret"></b></a>
           <ul class="dropdown-menu">
@@ -155,6 +164,53 @@
 	</section>
 	<!-- /Section: about -->
 
+	<!-- Section: results -->
+    <section id="results" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Results</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+	    <div class="col-lg-4">
+			<h3>Final Run Statistics</h3>
+			<p>
+				Run Time = 76.50 seconds<br>
+				Balls Deposited = 5<br>
+				Balls Identified = 5<br>
+				<b>Total Score = -83.50 seconds</b>
+			</p>
+		</div>
+        <div class="col-lg-8">
+            <div class="boxed-grey">
+            	<p>
+            	<iframe width="100%" height="500px" src="https://www.youtube.com/embed/u4rEc00vqpc" frameborder="0" allowfullscreen></iframe>
+            	</p>
+            </div>
+        </div>
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: results -->
+
 	<!-- Section: planning -->
     <section id="planning" class="home-section text-center">
 		<div class="heading-contact">
@@ -183,14 +239,13 @@
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-            	The robot navigates the course using the A* path planning algorithm.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls.  The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course.  The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles.  Furthermore, an extra movement cost for turns is implemented to minimize the number of turns in the planned path.  As the robot moves through the course it uses LADAR measurements to detect new obstacles.  If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map.  A new path is also calculated if the robot diverges from the current path and collects a golf ball.  Finally, the robot calculates a new path to the next target waypoint once the current target waypoint is reached.  This process repeats until the robot has reached all five waypoints in order to complete the course.<br><br>
-            	<iframe width="560" height="315" src="https://www.youtube.com/embed/u4rEc00vqpc" frameborder="0" allowfullscreen></iframe>
+            	The robot navigates the course using the A* path planning algorithm.  Kalman filtering of dead reckoning data (optical encoders on the wheel motors) and Optitrack data (camera system that tracks robot's motion) was used to update the position and orientation of the robot throughout the course.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls. The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course. The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles. Furthermore, an extra movement cost for turns is implemented to minimize the number of turns in the planned path. As the robot moves through the course it uses LADAR measurements to detect new obstacles. If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map. A new path is also calculated if the robot diverges from the current path and collects a golf ball. Finally, the robot calculates a new path to the next target waypoint once the current target waypoint is reached.  The process repeats until the robot has reached all five waypoints in order to complete the course.<br><br>
             	</p>
             </div>
         </div>
 		
 		<div class="col-lg-4">
-			<br><br><br><br><br><br>
+			<!-- <br><br><br><br><br><br> -->
 			<h2><img style="width: 100%" src="img/Untitled.png"></h2>
 		</div>
     </div>	
@@ -267,7 +322,7 @@
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.<br>
+				The robot is able to detect and collect golf balls through image processing and a camera mounted on the front of the robot.  A feedback control law is used to align the robot to the centroid of the identified golf ball as the robot moves towards the ball.  Additionally, LADAR is used to direct the robot away from obstacles using a feedback control law.  The robot rolls over the golf ball, opens one of the collector flaps, and sorts it into the appropriate compartment underneath the robot based on color.  Once the golf ball is underneath the robot, the collector flap is closed, and the color and location of the ball are sent to LabVIEW.  Finally, the robot releases the golf balls into their respective chutes at the end of the course.<br>
 				<img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png">
 				</p>
             </div>
@@ -309,24 +364,66 @@
 			</div>
 		</div>
     <div class="row">
-        <div class="col-lg-8">
+        <!-- <div class="col-lg-8"> -->
             <div class="boxed-grey">
             	<p>
 				A LabVIEW Virtual Instrument was developed to provide visual feedback of the robot’s navigation through the course.  The VI displays the course map with walls and grid spaces, the robot’s current position with a trail of past positions, detected obstacles, and collected balls with their respective position and color.  This functionality is extremely valuable for debugging, especially for obstacle detection, because it provides visual data on what the robot was seeing.  The VI communicates with the robot via a wireless TCP/IP connection, so real-time data is able to be viewed while the robot navigates the course.<br><br>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="width: 80%" src="img/Untitled3.png">
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="width: 80%" src="img/LabVIEW.png">
 				
 				</p>
             </div>
-        </div>
+        <!-- </div> -->
 		
-		<div class="col-lg-4">
+<!-- 		<div class="col-lg-4">
 			<h2><br><br><img style="width: 100%" src="img/Untitled4.png"><br><br><br><br><br><br><br><img style="width: 100%" src="img/Untitled5.png"></h2>
-		</div>
+		</div> -->
     </div>	
 
 		</div>
 	</section>
 	<!-- /Section: labview -->
+
+	<!-- Section: audio -->
+    <section id="audio" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Audio Feedback</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+        <!-- <div class="col-lg-8"> -->
+            <div class="boxed-grey">
+            	<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.
+				</p>
+            </div>
+        <!-- </div> -->
+		
+<!-- 		<div class="col-lg-4">
+			<h2><br><br><img style="width: 100%" src="img/Untitled4.png"><br><br><br><br><br><br><br><img style="width: 100%" src="img/Untitled5.png"></h2>
+		</div> -->
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: audio -->
 
 	<footer>
 		<div class="container">
