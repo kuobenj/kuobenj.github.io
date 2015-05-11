@@ -203,7 +203,8 @@
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-            	<iframe width="100%" height="500px" src="https://www.youtube.com/embed/u4rEc00vqpc" frameborder="0" allowfullscreen></iframe>
+            	<iframe width="100%" height="500px" src="https://www.youtube.com/embed/OpRMXtdTw9E" frameborder="0" allowfullscreen></iframe>
+            	<!-- <iframe width="100%" height="500px" src="https://www.youtube.com/embed/u4rEc00vqpc" frameborder="0" allowfullscreen></iframe> -->
             	</p>
             </div>
         </div>
@@ -276,6 +277,10 @@
 		<div class="container">
     <div class="row">
 		<div class="col-lg-4">
+			<br>
+			<br>
+			<br>
+			<br>
 			<h2><img style="width: 100%" src="img/obstacle.png"></h2>
 		</div>
         <div class="col-lg-8">
@@ -283,7 +288,8 @@
             	<p>
 				The robot detects obstacles using LADAR measurements.  As the robot navigates the course, LADAR measurements are recorded, and the obstacle map is updated.  Extra distance is added to every LADAR measurement so that every data point is pushed into a definite grid space away from the robot.  Every LADAR sweep, the detection algorithm sums up the number of LADAR data points for each grid space and assigns a hit to a grid space if the sum is greater than a threshold.  If the number of hits for a grid space becomes greater than a threshold overtime, then the obstacle is detected and the obstacle map is updated.  This two-layered system adds robustness to the obstacle detection and minimizes false obstacle identifications.
 				<br>
-				<img style="width: 50%;" src="img/obstacle2.jpg">
+				<br>
+				<img style="width: 80%;" src="img/IMGP0056.JPG">
 				</p>
             </div>
         </div>
@@ -319,13 +325,14 @@
 		<div class="container">
     <div class="row">
 		<div class="col-lg-4">
-			<h2><img style="width: 100%" src="img/collector3.png"><br><br><br><img style="width: 100%" src="img/t2.png"></h2>
+			<h2><img style="width: 100%" src="img/collector1.png"><img style="width: 100%" src="img/t2.png"></h2>
 		</div>
         <div class="col-lg-8">
             <div class="boxed-grey">
             	<p>
-				The robot is able to detect and collect golf balls through image processing and a camera mounted on the front of the robot.  A feedback control law is used to align the robot to the centroid of the identified golf ball as the robot moves towards the ball.  Additionally, LADAR is used to direct the robot away from obstacles using a feedback control law.  The robot rolls over the golf ball, opens one of the collector flaps, and sorts it into the appropriate compartment underneath the robot based on color.  Once the golf ball is underneath the robot, the collector flap is closed, and the color and location of the ball are sent to LabVIEW.  Finally, the robot releases the golf balls into their respective chutes at the end of the course.<br>
-				<img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png">
+				The robot is able to detect and collect golf balls through image processing and a camera mounted on the front of the robot.  A feedback control law is used to align the robot to the centroid of the identified golf ball as the robot moves towards the ball.  Additionally, LADAR is used to direct the robot away from obstacles using a feedback control law.  The robot rolls over the golf ball, opens one of the collector flaps, and sorts it into the appropriate compartment underneath the robot based on color.  Once the golf ball is underneath the robot, the collector flap is closed, and the color and location of the ball are sent to LabVIEW.  Finally, the robot releases the golf balls into their respective chutes at the end of the course.<br><br>
+				<!-- <img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png"> -->
+				<img style="width: 100%" src="img/IMGP0058_1.JPG">
 				</p>
             </div>
         </div>
