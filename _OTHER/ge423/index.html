@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Team Giga-bot</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="css/animate.css" rel="stylesheet" />
+    <!-- Squad theme CSS -->
+    <link href="css/style.css" rel="stylesheet">
+	<link href="color/default.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+	<!-- Preloader -->
+	<div id="preloader">
+	  <div id="load"></div>
+	</div>
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">
+                    <h1>Team Giga-bot</h1>
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#intro">Home</a></li>
+        <li><a href="#about">Team</a></li>
+        <li><a href="#results">Results</a></li>
+		<li><a href="#planning">Path Planning</a></li>
+		<li><a href="#avoidance">Obstacle Avoidance</a></li>
+		<li><a href="#collection">Ball Collection</a></li>
+		<!-- <li><a href="#labview">LabVIEW GUI</a></li> -->
+		<!-- <li><a href="https://github.com/kuobenj/GE423FP">Github</a></li> -->
+		<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Extra Features <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#labview">LabVIEW GUI</a></li>
+            <li><a href="#audio">Audio Feedback</a></li>
+            <!-- <li><a href="#">Example menu</a></li> -->
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="https://github.com/kuobenj/GE423FP" class="dropdown-toggle" data-toggle="dropdown">Code <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://github.com/kuobenj/GE423FP">Github</a></li>
+            <li><a href="FP.zip">Zip File</a></li>
+            <!-- <li><a href="#">Example menu</a></li> -->
+          </ul>
+        </li>
+      </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+	<!-- Section: intro -->
+    <section id="intro" class="intro">
+	
+		<div class="slogan">
+			<h2>MEET TEAM GIGA-BOT</span> </h2>
+			<h4>MAKING AN AUTONOMOUS BALL COLLECTING ROBOT</h4>
+		</div>
+		<div class="page-scroll">
+			<a href="#about" class="btn btn-circle">
+				<i class="fa fa-angle-double-down animated"></i>
+			</a>
+		</div>
+    </section>
+	<!-- /Section: intro -->
+
+	<!-- Section: about -->
+    <section id="about" class="home-section text-center">
+		<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Meet the Team</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+        <div class="row">
+            <div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="0.2s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Nolan Graves</h5>
+                        <p class="subtitle">Path Planning<br>Obstacle Avoidance<br>Collector Design</p>
+                        <div class="avatar"><img src="img/team/nolan.jpg" alt="" class="img-responsive img-circle" /></div>
+                    </div>
+                </div>
+				</div>
+            </div>
+			<div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="0.5s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Brandon Gigous</h5>
+                        <p class="subtitle">Path Planning<br>Obstacle Avoidance<br>Audio Feedback</p>
+                        <div class="avatar"><img src="img/team/brandon.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+			<div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="0.8s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Benjamin "Status" Kuo</h5>
+                        <p class="subtitle">LabVIEW<br>Ball Detection<br>Web Page</p>
+                        <div class="avatar"><img src="img/team/status.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+			<div class="col-xs-6 col-sm-3 col-md-3">
+				<div class="wow bounceInUp" data-wow-delay="1s">
+                <div class="team boxed-grey">
+                    <div class="inner">
+						<h5>Ryan Newquist</h5>
+                        <p class="subtitle">Ball Detection<br>Ball Tracking<br>Testing</p>
+                        <div class="avatar"><img src="img/team/ryan.jpg" alt="" class="img-responsive img-circle" /></div>
+
+                    </div>
+                </div>
+				</div>
+            </div>
+        </div>		
+		</div>
+	</section>
+	<!-- /Section: about -->
+
+	<!-- Section: results -->
+    <section id="results" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Results</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+	    <div class="col-lg-4">
+	    	<h1>FIRST PLACE!</h1>
+	    	<br>
+			<h3>Final Run Statistics</h3>
+			<p>
+				Run Time = 76.50 seconds<br>
+				Balls Deposited = 5<br>
+				Balls Identified = 5<br>
+				<b>Total Score = -83.50 seconds</b>
+			</p>
+		</div>
+        <div class="col-lg-8">
+            <div class="boxed-grey">
+            	<p>
+            	<iframe width="100%" height="500px" src="https://www.youtube.com/embed/OpRMXtdTw9E" frameborder="0" allowfullscreen></iframe>
+            	<!-- <iframe width="100%" height="500px" src="https://www.youtube.com/embed/u4rEc00vqpc" frameborder="0" allowfullscreen></iframe> -->
+            	</p>
+            </div>
+        </div>
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: results -->
+
+	<!-- Section: planning -->
+    <section id="planning" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Path Planning</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="boxed-grey">
+            	<p>
+            	The robot navigates the course using the A* path planning algorithm.  Kalman filtering of dead reckoning data (optical encoders on the wheel motors) and Optitrack data (camera system that tracks robot's motion) was used to update the position and orientation of the robot throughout the course.  The course is sectioned into 2’ x 2’ grid spaces which are prepopulated with the course walls. The A* algorithm plans the optimal path from the current position of the robot to the target waypoint, and the robot follows this path through the course. The implemented A* algorithm uses Manhattan distance to calculate the heuristic and does not allow diagonal movement to prevent the robot from running into obstacles. Furthermore, an extra movement cost for turns is implemented to minimize the number of turns in the planned path. As the robot moves through the course it uses LADAR measurements to detect new obstacles. If a new obstacle is detected, then the robot calculates a new path using the updated obstacle map. A new path is also calculated if the robot diverges from the current path and collects a golf ball. Finally, the robot calculates a new path to the next target waypoint once the current target waypoint is reached.  The process repeats until the robot has reached all five waypoints in order to complete the course.<br><br>
+            	</p>
+            </div>
+        </div>
+		
+		<div class="col-lg-4">
+			<!-- <br><br><br><br><br><br> -->
+			<h2><img style="width: 100%" src="img/Untitled.png"></h2>
+		</div>
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: planning -->
+
+	<!-- Section: avoidance -->
+    <section id="avoidance" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Obstacle Avoidance</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+    <div class="row">
+		<div class="col-lg-4">
+			<br>
+			<br>
+			<br>
+			<br>
+			<h2><img style="width: 100%" src="img/obstacle.png"></h2>
+		</div>
+        <div class="col-lg-8">
+            <div class="boxed-grey">
+            	<p>
+				The robot detects obstacles using LADAR measurements.  As the robot navigates the course, LADAR measurements are recorded, and the obstacle map is updated.  Extra distance is added to every LADAR measurement so that every data point is pushed into a definite grid space away from the robot.  Every LADAR sweep, the detection algorithm sums up the number of LADAR data points for each grid space and assigns a hit to a grid space if the sum is greater than a threshold.  If the number of hits for a grid space becomes greater than a threshold overtime, then the obstacle is detected and the obstacle map is updated.  This two-layered system adds robustness to the obstacle detection and minimizes false obstacle identifications.
+				<br>
+				<br>
+				<img style="width: 80%;" src="img/IMGP0056.JPG">
+				</p>
+            </div>
+        </div>
+		
+
+    </div>	
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+		</div>
+	</section>
+	<!-- /Section: avoidance -->
+
+	<!-- Section: collection -->
+    <section id="collection" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Ball Collection</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+    <div class="row">
+		<div class="col-lg-4">
+			<h2><img style="width: 100%" src="img/collector1.png"><img style="width: 100%" src="img/t2.png"></h2>
+		</div>
+        <div class="col-lg-8">
+            <div class="boxed-grey">
+            	<p>
+				The robot is able to detect and collect golf balls through image processing and a camera mounted on the front of the robot.  A feedback control law is used to align the robot to the centroid of the identified golf ball as the robot moves towards the ball.  Additionally, LADAR is used to direct the robot away from obstacles using a feedback control law.  The robot rolls over the golf ball, opens one of the collector flaps, and sorts it into the appropriate compartment underneath the robot based on color.  Once the golf ball is underneath the robot, the collector flap is closed, and the color and location of the ball are sent to LabVIEW.  Finally, the robot releases the golf balls into their respective chutes at the end of the course.<br><br>
+				<!-- <img style="width: 50%" src="img/collector1.png"><img style="width: 50%" src="img/collector2.png"> -->
+				<img style="width: 100%" src="img/IMGP0058_1.JPG">
+				</p>
+            </div>
+        </div>
+		
+
+    </div>	
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+		</div>
+	</section>
+	<!-- /Section: collection -->
+	
+	<!-- Section: labview -->
+    <section id="labview" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>LabVIEW GUI</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+        <!-- <div class="col-lg-8"> -->
+            <div class="boxed-grey">
+            	<p>
+				A LabVIEW Virtual Instrument was developed to provide visual feedback of the robot’s navigation through the course.  The VI displays the course map with walls and grid spaces, the robot’s current position with a trail of past positions, detected obstacles, and collected balls with their respective position and color.  This functionality is extremely valuable for debugging, especially for obstacle detection, because it provides visual data on what the robot was seeing.  The VI communicates with the robot via a wireless TCP/IP connection, so real-time data is able to be viewed while the robot navigates the course.<br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="width: 80%" src="img/LabVIEW.png">
+				
+				</p>
+            </div>
+        <!-- </div> -->
+		
+<!-- 		<div class="col-lg-4">
+			<h2><br><br><img style="width: 100%" src="img/Untitled4.png"><br><br><br><br><br><br><br><img style="width: 100%" src="img/Untitled5.png"></h2>
+		</div> -->
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: labview -->
+
+	<!-- Section: audio -->
+    <section id="audio" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Audio Feedback</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+        <!-- <div class="col-lg-8"> -->
+            <div class="boxed-grey">
+            	<p>
+				Not only can the robot sense and navigate its environment, but it does it with personality! By sending commands across chips (from the DSP chip to an OMAP chip running Linux), we can call a function to make Giga-bot speak. Or, we can even play sound clips, such as a coin dropping on a table. When the robot sees various things while navigating the course, our algorithm will randomly choose one of the robot's "catchphrases" that reflects what's going on in the course. For example, when Giga-bot sees a ball, it'll say "Oh my, an orange ball." Giga-bot also shares a thought when it reaches any one of the checkpoints. From pointless gibberish to musings of the Land of a Thousand Golf Balls, Giga-bot is sure to bring joy to people of all ages!
+				</p>
+            </div>
+        <!-- </div> -->
+		
+<!-- 		<div class="col-lg-4">
+			<h2><br><br><img style="width: 100%" src="img/Untitled4.png"><br><br><br><br><br><br><br><img style="width: 100%" src="img/Untitled5.png"></h2>
+		</div> -->
+    </div>	
+
+		</div>
+	</section>
+	<!-- /Section: audio -->
+
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-lg-12">
+					<div class="wow shake" data-wow-delay="0.4s">
+					<div class="page-scroll marginbot-30">
+						<a href="#intro" id="totop" class="btn btn-circle">
+							<i class="fa fa-angle-double-up animated"></i>
+						</a>
+					</div>
+					</div>
+					<p>&copy;Copyright 2014 - Squad. All rights reserved.</p>
+				</div>
+			</div>	
+		</div>
+	</footer>
+
+    <!-- Core JavaScript Files -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>	
+	<script src="js/jquery.scrollTo.js"></script>
+	<script src="js/wow.min.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
