@@ -1,0 +1,1171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"fileID"
+			],
+			[
+				"ols",
+				"old_plan_size"
+			],
+			[
+				"old",
+				"old_plan_state"
+			],
+			[
+				"ol",
+				"old_plan_size"
+			],
+			[
+				"_",
+				"_g"
+			],
+			[
+				"old_pla",
+				"old_plan_state"
+			],
+			[
+				"get",
+				"get_h"
+			],
+			[
+				"inc",
+				"inc	#include <…>"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"mp",
+				"mprims"
+			],
+			[
+				"hi",
+				"h_dict"
+			],
+			[
+				"end",
+				"end_flag"
+			],
+			[
+				"ski",
+				"skip_f"
+			],
+			[
+				"num",
+				"num_mprims"
+			],
+			[
+				"if",
+				"ifeif	if … elseif … end"
+			],
+			[
+				"new",
+				"newtheta"
+			],
+			[
+				"mon",
+				"motion_primitives"
+			],
+			[
+				"ops",
+				"openSet"
+			],
+			[
+				"_pa",
+				"_parent_prim"
+			],
+			[
+				"n",
+				"newy"
+			],
+			[
+				"ne",
+				"newx"
+			],
+			[
+				"dou",
+				"double"
+			],
+			[
+				"x_",
+				"x_size"
+			],
+			[
+				"pri",
+				"prim_id"
+			],
+			[
+				"grid",
+				"gridpos"
+			],
+			[
+				"gri",
+				"gridposy"
+			],
+			[
+				"goa",
+				"goalposeY"
+			],
+			[
+				"robopose",
+				"robotposeY"
+			],
+			[
+				"robotpose",
+				"robotposeX"
+			],
+			[
+				"bu",
+				"build_h_dict"
+			],
+			[
+				"robo",
+				"robotposeTheta"
+			],
+			[
+				"y",
+				"y_size"
+			],
+			[
+				"PR",
+				"printf"
+			],
+			[
+				"go",
+				"goalposeX"
+			],
+			[
+				"h",
+				"h_dict"
+			],
+			[
+				"_p",
+				"_parent_prim"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"op",
+				"openSet"
+			],
+			[
+				"pla",
+				"plan_start"
+			],
+			[
+				"mex",
+				"mexPrintf"
+			],
+			[
+				"par",
+				"_parent_id"
+			],
+			[
+				"nod",
+				"node_compare_t"
+			],
+			[
+				"ope",
+				"openDict"
+			],
+			[
+				"oe",
+				"openDict"
+			],
+			[
+				"clos",
+				"closedSet"
+			],
+			[
+				"clo",
+				"closedSet"
+			],
+			[
+				"ro",
+				"robotposeTheta"
+			],
+			[
+				"node",
+				"node_t"
+			],
+			[
+				"un",
+				"unordered_map"
+			],
+			[
+				"in",
+				"inc	#include <…>"
+			],
+			[
+				"x",
+				"x_size"
+			],
+			[
+				"force",
+				"force_increase"
+			],
+			[
+				"des",
+				"desired_y"
+			],
+			[
+				"init",
+				"initial_z"
+			],
+			[
+				"desir",
+				"desired_x"
+			],
+			[
+				"Heb",
+				"HebiLookup"
+			],
+			[
+				"va",
+				"valid_idx"
+			],
+			[
+				"udpa",
+				"update_idx"
+			],
+			[
+				"max",
+				"max_y_i"
+			],
+			[
+				"min",
+				"min_y_i"
+			],
+			[
+				"yma",
+				"y_mat_i"
+			],
+			[
+				"xm",
+				"x_mat_i"
+			],
+			[
+				"x_m",
+				"x_mat_i"
+			],
+			[
+				"update",
+				"update_idx"
+			],
+			[
+				"KF",
+				"KF_DSI"
+			],
+			[
+				"ks",
+				"KF_DSI"
+			],
+			[
+				"even",
+				"event_image"
+			],
+			[
+				"eve",
+				"event_image"
+			],
+			[
+				"z",
+				"z_mat_i"
+			],
+			[
+				"i",
+				"i_points"
+			],
+			[
+				"T",
+				"T_i"
+			],
+			[
+				"T_k",
+				"T_kf"
+			],
+			[
+				"T_kf",
+				"T_kf2i"
+			],
+			[
+				"ori",
+				"orig_calib"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"star",
+				"start_idx"
+			],
+			[
+				"start",
+				"start_idx"
+			],
+			[
+				"map",
+				"map_points"
+			],
+			[
+				"point",
+				"pointCloud"
+			],
+			[
+				"po",
+				"pointCloud"
+			],
+			[
+				"test",
+				"test_image_idx"
+			],
+			[
+				"val",
+				"valid_x"
+			],
+			[
+				"dep",
+				"depth_map"
+			],
+			[
+				"KF_",
+				"KF_scaling"
+			],
+			[
+				"vali",
+				"valid_points"
+			],
+			[
+				"gr",
+				"groundtruth_idx"
+			],
+			[
+				"ke",
+				"keyframe_bool"
+			],
+			[
+				"kf",
+				"kf_pose_estimate"
+			],
+			[
+				"grou",
+				"groundtruth_idx"
+			],
+			[
+				"fir",
+				"first_kf_pose"
+			],
+			[
+				"dis",
+				"distance_from_kf"
+			],
+			[
+				"H",
+				"H_tfs"
+			],
+			[
+				"H_",
+				"H_planes"
+			],
+			[
+				"corre",
+				"correct_point"
+			],
+			[
+				"corr",
+				"corrected_image"
+			],
+			[
+				"groun",
+				"groundtruth_mat"
+			],
+			[
+				"pt",
+				"ptCloud"
+			],
+			[
+				"q",
+				"qw"
+			],
+			[
+				"rad",
+				"rad_dist_vec"
+			],
+			[
+				"tan",
+				"tang_dist_vec"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"dist",
+				"distance_accum"
+			],
+			[
+				"q_",
+				"q_x"
+			],
+			[
+				"event",
+				"event_mat"
+			],
+			[
+				"out",
+				"outputs_binarized"
+			],
+			[
+				"gra",
+				"grad_output"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"con",
+				"converted_string"
+			],
+			[
+				"fin",
+				"final_string"
+			],
+			[
+				"l",
+				"lines"
+			],
+			[
+				"sor",
+				"sorted_idx"
+			],
+			[
+				"lin",
+				"line_num"
+			],
+			[
+				"line",
+				"line_num"
+			],
+			[
+				"b",
+				"b_init"
+			],
+			[
+				"W",
+				"W_init"
+			],
+			[
+				"img",
+				"im_gray"
+			],
+			[
+				"la",
+				"layer"
+			],
+			[
+				"ep",
+				"epoch_mat"
+			],
+			[
+				"bw",
+				"bw_cc"
+			],
+			[
+				"im",
+				"im_blurred"
+			],
+			[
+				"im_",
+				"im_blurred"
+			],
+			[
+				"tra",
+				"train_loss"
+			],
+			[
+				"per",
+				"perm_idx"
+			],
+			[
+				"test_",
+				"test_vect"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"grad",
+				"grad_W"
+			],
+			[
+				"theta",
+				"theta_p"
+			],
+			[
+				"learnin",
+				"learning_rate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8432,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "underconstruction.html",
+			"settings":
+			{
+				"buffer_size": 2739,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aboutme.html",
+			"settings":
+			{
+				"buffer_size": 5102,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "elements.html",
+			"settings":
+			{
+				"buffer_size": 19066,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "diy.html",
+			"settings":
+			{
+				"buffer_size": 5144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "generic.html",
+			"settings":
+			{
+				"buffer_size": 5092,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/stran/OneDrive/24672DIY/task2/kuobenj.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/stran/OneDrive/24672DIY/task2/kuobenj.github.io/project.sublime-project",
+		"/C/Users/stran/Documents/cmu_print.sh",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170927T154027",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170927T151058",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T153541_sanitized",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T124259",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T142017",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T142939",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T115259",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T115057",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/20170926T005249",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/targetplanner.m",
+		"/C/Users/stran/Documents/my_test_script2.m",
+		"/C/Users/stran/OneDrive/11777MMML/benjamik@unix.andrew.cmu.edu",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/diary",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/node.cpp",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/unicycle_8angles.mprim",
+		"/C/Users/stran/OneDrive/16782Planning/hw1/hw1/code/planner_algs.hpp",
+		"/C/Users/stran/Downloads/HEBI/hebi-matlab-examples-master/basic/xy_input.m",
+		"/C/Users/stran/Downloads/HEBI/hebi-matlab-examples-master/basic/button_press_test.m",
+		"/C/Users/stran/Downloads/HEBI/igor/igor2Startup.m",
+		"/C/Users/stran/Downloads/HEBI/igor/igorDemo.m",
+		"/C/Users/stran/Downloads/HEBI/igor/igorStart.bat",
+		"/C/Users/stran/Downloads/HEBI/igor/poseFilterRestarts.m",
+		"/C/Users/stran/Downloads/HEBI/igor/testClass.m",
+		"/C/Users/stran/Downloads/HEBI/igor/startup.m",
+		"/C/Users/stran/Downloads/HEBI/igor/testPoseFilter.m",
+		"/C/Users/stran/Downloads/HEBI/igor/balanceTraj.m",
+		"/C/Users/stran/Downloads/HEBI/igor/gains.mat",
+		"/C/Users/stran/Downloads/HEBI/igor/igor2Demo.m",
+		"/C/Users/stran/Downloads/HEBI/hebi-matlab-examples-master/basic/ex4_kinematics.m",
+		"/C/Users/stran/Downloads/Junk/eece17ed7855885f17d73c269e739605.log",
+		"/C/Users/stran/Downloads/Junk/IEEEtran/README",
+		"/C/Users/stran/Downloads/Junk/cvpr2017AuthorKit/latex/README.txt",
+		"/C/Users/stran/Documents/EVO/GetEventImage.m",
+		"/C/Users/stran/Documents/EVO/GetNewMapPoints.m",
+		"/C/Users/stran/Documents/EVO/warpH_rect.m",
+		"/C/Users/stran/Documents/EVO/UpdateDSI.m",
+		"/C/Users/stran/Documents/EVO/GetClusters.m",
+		"/C/Users/stran/Documents/EVO/DiscretizeKeyframe.m",
+		"/C/Users/stran/Documents/EVO/FindPoseToKfH.m",
+		"/C/Users/stran/Documents/EVO/EVO.m",
+		"/C/Users/stran/Documents/EVO/event_image_vid_creator.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_translation/groundtruth.txt",
+		"/C/Users/stran/Documents/EVO/data/shapes_translation/events.txt",
+		"/C/Users/stran/Documents/EVO/CorrectDistortion.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_rotation/groundtruth.txt",
+		"/C/Users/stran/Documents/EVO/data/shapes_rotation/images.txt",
+		"/C/Users/stran/Documents/EVO/data/shapes_translation/calib.txt",
+		"/C/Users/stran/Documents/EVO/warpH.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_translation/images.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/plotEvalMaps.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/plotTrajAndMap.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/ICP_FUSION.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_rotation/calib.txt",
+		"/C/Users/stran/Documents/EVO/GetEventImage2.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/projMapToFrame.m",
+		"/C/Users/stran/Documents/EVO/ProjectPointsToKfPlanes.m",
+		"/C/Users/stran/Documents/EVO/correct_distortion.m",
+		"/C/Users/stran/Documents/EVO/custom_quat2rotm.m",
+		"/C/Users/stran/Documents/EVO/getMapPoints.m",
+		"/C/Users/stran/Documents/EVO/randomstuff.txt",
+		"/C/Users/stran/Documents/EVO/quat2rotm.m",
+		"/C/Users/stran/Documents/EVO/GetKeyFrameTimes.m",
+		"/C/Users/stran/Documents/EVO/playback_data.m",
+		"/C/Users/stran/Documents/EVO/data_extraction_scripts/read_events_data.m",
+		"/C/Users/stran/Documents/EVO/data_extraction_scripts/read_ground_truth_data.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_rotation/events.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/EKF_SLAM.m",
+		"/C/Users/stran/Documents/EVO/data_extraction_scripts/read_events_test_script.m",
+		"/C/Users/stran/Documents/EVO/read_events_test_script.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/H_solving_script_1ef.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/data/data.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/drawTrajPre.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/drawTrajAndMap.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/drawCovEllipse.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw1/16833_hw1/EKF_slam/script_3a.m",
+		"/C/Users/stran/Documents/EVO/data/shapes_rotation/imu.txt",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/testFindLetters.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/testExtractImageText.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/InitializeNetwork.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/Forward.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/Classify.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/ComputeAccuracyAndLoss.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/GenerateConfusionMatVisuals.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/Backward.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/UpdateParameters.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/Train.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/train26.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/train26_001.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/finetune36.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/visualize_weights.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/checkGradient.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/findLetters.m",
+		"/C/Users/stran/Documents/CV_Class/hw5/hw5-handout/code/extractImageText.m",
+		"/C/Users/stran/Documents/SLAM_Class/benjamik_reading_5_summary.txt",
+		"/C/Users/stran/Documents/CV_Class/hw3/hw3/submission/benjamik/code/SubtractDominantMotion.m",
+		"/C/Users/stran/Documents/CV_Class/hw3/hw3/code/SubtractDominantMotion.m",
+		"/C/Users/stran/Documents/ML/hw7/NN_music.py",
+		"/C/Users/stran/Documents/randomCVshit/planning/scripts/melle_arm_interface_node.py",
+		"/C/Users/stran/Documents/ML/hw7/NN_education.py",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/submission/writeup_and_summary/summary.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/updateFusionMapWithProjMap.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/getNextRefData.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/avgProjMapWithInputData.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/isUsableInputPoints.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/isInputSimilarToProjNormals.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/isInputCloseToProjPoints.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/pointBasedFusion.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/getRigidTransform.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/summary.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/toSkewSym.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3_changed_files/16833_hw3_changed_files/pointBasedFusion.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/downsampleData.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/initMap.m",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw3/16833_hw3/ICP_fusion/findLocalClosest.m",
+		"/C/Users/stran/Documents/SLAM_Class/benjamik_reading_4_summary.txt",
+		"/C/Users/stran/Documents/SLAM_Class/16833_hw2/16833_hw2/slam_solvers/linear/solve_pinv.m",
+		"/C/Users/stran/Documents/randomCVshit/planning/calibration_materials/new_tfom_3_30.txt",
+		"/C/Users/stran/Documents/SLAM_Class/benjamik_reading_3_summary.txt",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/refineF.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/displayEpipolarF.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/visualize.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/test_epi_corr.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/epipolarCorrespondence.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/eightpoint.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/sevenpoint.m",
+		"/C/Users/stran/Documents/CV_Class/hw4/hw4/matlab/essentialMatrix.m"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\stran\\Documents\\EVO",
+			"EVO",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"#\" class=\"spe",
+			"#\" class=\"",
+			"#",
+			"Fit",
+			"fit",
+			"caugh",
+			"col",
+			"caugh",
+			"caught",
+			"i =",
+			"caugh",
+			"i =",
+			"75",
+			"h_dict",
+			"h_dict = NULL",
+			"envmap",
+			"timed",
+			"old_plan_size",
+			"coll",
+			"caught",
+			"cau",
+			"i =",
+			"caugh",
+			"planned",
+			"temp",
+			"planned ac",
+			"moves made",
+			"i =",
+			"moves made",
+			"epsil",
+			"res",
+			"timed",
+			"0.0000",
+			"plan_start",
+			"mprims",
+			"motion_primitives",
+			"delete",
+			"goalpose",
+			"mexPrintf",
+			"i =",
+			"planned action leads to collision",
+			"to collision",
+			"i =",
+			"target caught=1",
+			"i =",
+			"planned action leads to collision",
+			"i =",
+			"fp: -1817515376, skip_c: totalnumberofprimitives:, resolution 0.100000, num_angles: 8, num_mprims: 40\nskip_c: startangle_c:, skip_f 0\n0.000000, 0.000000, 0.000000\n0.011100, 0.000000, 0.000000\n0.022200, 0.000000, 0.000000\n0.033300, 0.000000, 0.000000\n0.044400, 0.000000, 0.000000\n0.055600, 0.000000, 0.000000\n0.066700, 0.000000, 0.000000\n0.077800, 0.000000, 0.000000\n0.088900, 0.000000, 0.000000\n0.100000, 0.000000, 0.000000\nskip_c: startangle_c:, skip_f 0\n0.000000, 0.000000, 0.000000\n0.088900, 0.000000, 0.000000\n0.177800, 0.000000, 0.000000\n0.266700, 0.000000, 0.000000\n0.355600, 0.000000, 0.000000\n0.444400, 0.000000, 0.000000\n0.533300, 0.000000, 0.000000\n0.622200, 0.000000, 0.000000\n0.711100, 0.000000, 0.000000\n0.800000, 0.000000, 0.000000\nskip_c: startangle_c:, skip_f 0\n0.000000, 0.000000, 0.000000\n-0.011100, 0.000000, 0.000000\n-0.022200, 0.000000, 0.000000\n-0.033300, 0.000000, 0.000000\n-0.044400, 0.000000, 0.000000\n-0.055600, 0.000000, 0.000000\n-0.066700, 0.000000, 0.000000\n-0.077800, 0.000000, 0.000000\n-0.088900, 0.000000, 0.000000\n-0.100000, 0.000000, 0.000000\nskip_c: startangle_c:, skip_f 0\n0.000000, 0.000000, 0.000000\n0.091900, 0.000000, 0.000000\n0.183700, 0.000000, 0.000000\n0.275600, 0.000000, 0.000000\n0.367400, 0.000000, 0.000000\n0.459300, 0.000000, 0.000000\n0.551200, 0.000000, 0.000000\n0.642200, 0.010400, 0.247300\n0.727100, 0.044500, 0.516300\n0.800000, 0.100000, 0.785400\nskip_c: startangle_c:, skip_f 0\n0.000000, 0.000000, 0.000000\n0.091900, 0.000000, 0.000000\n0.183700, 0.000000, 0.000000\n0.275600, 0.000000, 0.000000\n0.367400, 0.000000, 0.000000\n0.459300, 0.000000, 0.000000\n0.551200, 0.000000, 0.000000\n0.642200, -0.010400, -0.247300\n0.727100, -0.044500, -0.516300\n0.800000, -0.100000, -0.785400\nskip_c: startangle_c:, skip_f 1\n0.000000, 0.000000, 0.785400\n0.011100, 0.011100, 0.785400\n0.022200, 0.022200, 0.785400\n0.033300, 0.033300, 0.785400\n0.044400, 0.044400, 0.785400\n0.055600, 0.055600, 0.785400\n0.066700, 0.066700, 0.785400\n0.077800, 0.077800, 0.785400\n0.088900, 0.088900, 0.785400\n0.100000, 0.100000, 0.785400\nskip_c: startangle_c:, skip_f 1\n0.000000, 0.000000, 0.785400\n0.066700, 0.066700, 0.785400\n0.133300, 0.133300, 0.785400\n0.200000, 0.200000, 0.785400\n0.266700, 0.266700, 0.785400\n0.333300, 0.333300, 0.785400\n0.400000, 0.400000, 0.785400\n0.466700, 0.466700, 0.785400\n0.533300, 0.533300, 0.785400\n0.600000, 0.600000, 0.785400\nskip_c: startangle_c:, skip_f 1\n0.000000, 0.000000, 0.785400\n-0.011100, -0.011100, 0.785400\n-0.022200, -0.022200, 0.785400\n-0.033300, -0.033300, 0.785400\n-0.044400, -0.044400, 0.785400\n-0.055600, -0.055600, 0.785400\n-0.066700, -0.066700, 0.785400\n-0.077800, -0.077800, 0.785400\n-0.088900, -0.088900, 0.785400\n-0.100000, -0.100000, 0.785400\nskip_c: startangle_c:, skip_f 1\n0.000000, 0.000000, 0.785400\n0.069600, 0.069600, 0.785400\n0.139300, 0.139300, 0.785400\n0.208900, 0.208900, 0.785400\n0.278500, 0.278500, 0.785400\n0.348200, 0.348200, 0.785400\n0.412400, 0.422700, 0.958900\n0.460400, 0.508500, 1.162900\n0.490000, 0.602200, 1.366800\n0.500000, 0.700000, 1.570800\nskip_c: startangle_c:, skip_f 1\n0.000000, 0.000000, 0.785400\n0.069600, 0.069600, 0.785400\n0.139300, 0.139300, 0.785400\n0.208900, 0.208900, 0.785400\n0.278500, 0.278500, 0.785400\n0.348200, 0.348200, 0.785400\n0.422700, 0.412400, 0.611900\n0.508500, 0.460400, 0.407900\n0.602200, 0.490000, 0.204000\n0.700000, 0.500000, 0.000000\nskip_c: startangle_c:, skip_f 2\n0.000000, 0.000000, 1.570800\n0.000000, 0.011100, 1.570800\n0.000000, 0.022200, 1.570800\n0.000000, 0.033300, 1.570800\n0.000000, 0.044400, 1.570800\n0.000000, 0.055600, 1.570800\n0.000000, 0.066700, 1.570800\n0.000000, 0.077800, 1.570800\n0.000000, 0.088900, 1.570800\n0.000000, 0.100000, 1.570800\nskip_c: startangle_c:, skip_f 2\n0.000000, 0.000000, 1.570800\n0.000000, 0.088900, 1.570800\n0.000000, 0.177800, 1.570800\n0.000000, 0.266700, 1.570800\n0.000000, 0.355600, 1.570800\n0.000000, 0.444400, 1.570800\n0.000000, 0.533300, 1.570800\n0.000000, 0.622200, 1.570800\n0.000000, 0.711100, 1.570800\n0.000000, 0.800000, 1.570800\nskip_c: startangle_c:, skip_f 2\n0.000000, 0.000000, 1.570800\n0.000000, -0.011100, 1.570800\n0.000000, -0.022200, 1.570800\n0.000000, -0.033300, 1.570800\n0.000000, -0.044400, 1.570800\n0.000000, -0.055600, 1.570800\n0.000000, -0.066700, 1.570800\n0.000000, -0.077800, 1.570800\n0.000000, -0.088900, 1.570800\n0.000000, -0.100000, 1.570800\nskip_c: startangle_c:, skip_f 2\n0.000000, 0.000000, 1.570800\n-0.000000, 0.091900, 1.570800\n-0.000000, 0.183700, 1.570800\n-0.000000, 0.275600, 1.570800\n-0.000000, 0.367400, 1.570800\n-0.000000, 0.459300, 1.570800\n-0.000000, 0.551200, 1.570800\n-0.010400, 0.642200, 1.818100\n-0.044500, 0.727100, 2.087100\n-0.100000, 0.800000, 2.356200\nskip_c: startangle_c:, skip_f 2\n0.000000, 0.000000, 1.570800\n-0.000000, 0.091900, 1.570800\n-0.000000, 0.183700, 1.570800\n-0.000000, 0.275600, 1.570800\n-0.000000, 0.367400, 1.570800\n-0.000000, 0.459300, 1.570800\n-0.000000, 0.551200, 1.570800\n0.010400, 0.642200, 1.323500\n0.044500, 0.727100, 1.054400\n0.100000, 0.800000, 0.785400\nskip_c: startangle_c:, skip_f 3\n0.000000, 0.000000, 2.356200\n-0.011100, 0.011100, 2.356200\n-0.022200, 0.022200, 2.356200\n-0.033300, 0.033300, 2.356200\n-0.044400, 0.044400, 2.356200\n-0.055600, 0.055600, 2.356200\n-0.066700, 0.066700, 2.356200\n-0.077800, 0.077800, 2.356200\n-0.088900, 0.088900, 2.356200\n-0.100000, 0.100000, 2.356200\nskip_c: startangle_c:, skip_f 3\n0.000000, 0.000000, 2.356200\n-0.066700, 0.066700, 2.356200\n-0.133300, 0.133300, 2.356200\n-0.200000, 0.200000, 2.356200\n-0.266700, 0.266700, 2.356200\n-0.333300, 0.333300, 2.356200\n-0.400000, 0.400000, 2.356200\n-0.466700, 0.466700, 2.356200\n-0.533300, 0.533300, 2.356200\n-0.600000, 0.600000, 2.356200\nskip_c: startangle_c:, skip_f 3\n0.000000, 0.000000, 2.356200\n0.011100, -0.011100, 2.356200\n0.022200, -0.022200, 2.356200\n0.033300, -0.033300, 2.356200\n0.044400, -0.044400, 2.356200\n0.055600, -0.055600, 2.356200\n0.066700, -0.066700, 2.356200\n0.077800, -0.077800, 2.356200\n0.088900, -0.088900, 2.356200\n0.100000, -0.100000, 2.356200\nskip_c: startangle_c:, skip_f 3\n0.000000, 0.000000, 2.356200\n-0.069600, 0.069600, 2.356200\n-0.139300, 0.139300, 2.356200\n-0.208900, 0.208900, 2.356200\n-0.278500, 0.278500, 2.356200\n-0.348200, 0.348200, 2.356200\n-0.422700, 0.412400, 2.529700\n-0.508500, 0.460400, 2.733700\n-0.602200, 0.490000, 2.937600\n-0.700000, 0.500000, 3.141600\nskip_c: startangle_c:, skip_f 3\n0.000000, 0.000000, 2.356200\n-0.069600, 0.069600, 2.356200\n-0.139300, 0.139300, 2.356200\n-0.208900, 0.208900, 2.356200\n-0.278500, 0.278500, 2.356200\n-0.348200, 0.348200, 2.356200\n-0.412400, 0.422700, 2.182700\n-0.460400, 0.508500, 1.978700\n-0.490000, 0.602200, 1.774800\n-0.500000, 0.700000, 1.570800\nskip_c: startangle_c:, skip_f 4\n0.000000, 0.000000, 3.141600\n-0.011100, 0.000000, 3.141600\n-0.022200, 0.000000, 3.141600\n-0.033300, 0.000000, 3.141600\n-0.044400, 0.000000, 3.141600\n-0.055600, 0.000000, 3.141600\n-0.066700, 0.000000, 3.141600\n-0.077800, 0.000000, 3.141600\n-0.088900, 0.000000, 3.141600\n-0.100000, 0.000000, 3.141600\nskip_c: startangle_c:, skip_f 4\n0.000000, 0.000000, 3.141600\n-0.088900, 0.000000, 3.141600\n-0.177800, 0.000000, 3.141600\n-0.266700, 0.000000, 3.141600\n-0.355600, 0.000000, 3.141600\n-0.444400, 0.000000, 3.141600\n-0.533300, 0.000000, 3.141600\n-0.622200, 0.000000, 3.141600\n-0.711100, 0.000000, 3.141600\n-0.800000, 0.000000, 3.141600\nskip_c: startangle_c:, skip_f 4\n0.000000, 0.000000, 3.141600\n0.011100, 0.000000, 3.141600\n0.022200, 0.000000, 3.141600\n0.033300, 0.000000, 3.141600\n0.044400, 0.000000, 3.141600\n0.055600, 0.000000, 3.141600\n0.066700, 0.000000, 3.141600\n0.077800, 0.000000, 3.141600\n0.088900, 0.000000, 3.141600\n0.100000, 0.000000, 3.141600\nskip_c: startangle_c:, skip_f 4\n0.000000, 0.000000, 3.141600\n-0.091900, 0.000000, 3.141600\n-0.183700, 0.000000, 3.141600\n-0.275600, 0.000000, 3.141600\n-0.367400, 0.000000, 3.141600\n-0.459300, 0.000000, 3.141600\n-0.551200, 0.000000, 3.141600\n-0.642200, -0.010400, 3.388900\n-0.727100, -0.044500, 3.657900\n-0.800000, -0.100000, 3.927000\nskip_c: startangle_c:, skip_f 4\n0.000000, 0.000000, 3.141600\n-0.091900, 0.000000, 3.141600\n-0.183700, 0.000000, 3.141600\n-0.275600, 0.000000, 3.141600\n-0.367400, 0.000000, 3.141600\n-0.459300, 0.000000, 3.141600\n-0.551200, 0.000000, 3.141600\n-0.642200, 0.010400, 2.894300\n-0.727100, 0.044500, 2.625200\n-0.800000, 0.100000, 2.356200\nskip_c: startangle_c:, skip_f 5\n0.000000, 0.000000, 3.927000\n-0.011100, -0.011100, 3.927000\n-0.022200, -0.022200, 3.927000\n-0.033300, -0.033300, 3.927000\n-0.044400, -0.044400, 3.927000\n-0.055600, -0.055600, 3.927000\n-0.066700, -0.066700, 3.927000\n-0.077800, -0.077800, 3.927000\n-0.088900, -0.088900, 3.927000\n-0.100000, -0.100000, 3.927000\nskip_c: startangle_c:, skip_f 5\n0.000000, 0.000000, 3.927000\n-0.066700, -0.066700, 3.927000\n-0.133300, -0.133300, 3.927000\n-0.200000, -0.200000, 3.927000\n-0.266700, -0.266700, 3.927000\n-0.333300, -0.333300, 3.927000\n-0.400000, -0.400000, 3.927000\n-0.466700, -0.466700, 3.927000\n-0.533300, -0.533300, 3.927000\n-0.600000, -0.600000, 3.927000\nskip_c: startangle_c:, skip_f 5\n0.000000, 0.000000, 3.927000\n0.011100, 0.011100, 3.927000\n0.022200, 0.022200, 3.927000\n0.033300, 0.033300, 3.927000\n0.044400, 0.044400, 3.927000\n0.055600, 0.055600, 3.927000\n0.066700, 0.066700, 3.927000\n0.077800, 0.077800, 3.927000\n0.088900, 0.088900, 3.927000\n0.100000, 0.100000, 3.927000\nskip_c: startangle_c:, skip_f 5\n0.000000, 0.000000, 3.927000\n-0.069600, -0.069600, 3.927000\n-0.139300, -0.139300, 3.927000\n-0.208900, -0.208900, 3.927000\n-0.278500, -0.278500, 3.927000\n-0.348200, -0.348200, 3.927000\n-0.412400, -0.422700, 4.100500\n-0.460400, -0.508500, 4.304500\n-0.490000, -0.602200, 4.508400\n-0.500000, -0.700000, 4.712400\nskip_c: startangle_c:, skip_f 5\n0.000000, 0.000000, 3.927000\n-0.069600, -0.069600, 3.927000\n-0.139300, -0.139300, 3.927000\n-0.208900, -0.208900, 3.927000\n-0.278500, -0.278500, 3.927000\n-0.348200, -0.348200, 3.927000\n-0.422700, -0.412400, 3.753500\n-0.508500, -0.460400, 3.549500\n-0.602200, -0.490000, 3.345600\n-0.700000, -0.500000, 3.141600\nskip_c: startangle_c:, skip_f 6\n0.000000, 0.000000, 4.712400\n0.000000, -0.011100, 4.712400\n0.000000, -0.022200, 4.712400\n0.000000, -0.033300, 4.712400\n0.000000, -0.044400, 4.712400\n0.000000, -0.055600, 4.712400\n0.000000, -0.066700, 4.712400\n0.000000, -0.077800, 4.712400\n0.000000, -0.088900, 4.712400\n0.000000, -0.100000, 4.712400\nskip_c: startangle_c:, skip_f 6\n0.000000, 0.000000, 4.712400\n0.000000, -0.088900, 4.712400\n0.000000, -0.177800, 4.712400\n0.000000, -0.266700, 4.712400\n0.000000, -0.355600, 4.712400\n0.000000, -0.444400, 4.712400\n0.000000, -0.533300, 4.712400\n0.000000, -0.622200, 4.712400\n0.000000, -0.711100, 4.712400\n0.000000, -0.800000, 4.712400\nskip_c: startangle_c:, skip_f 6\n0.000000, 0.000000, 4.712400\n0.000000, 0.011100, 4.712400\n0.000000, 0.022200, 4.712400\n0.000000, 0.033300, 4.712400\n0.000000, 0.044400, 4.712400\n0.000000, 0.055600, 4.712400\n0.000000, 0.066700, 4.712400\n0.000000, 0.077800, 4.712400\n0.000000, 0.088900, 4.712400\n0.000000, 0.100000, 4.712400\nskip_c: startangle_c:, skip_f 6\n0.000000, 0.000000, 4.712400\n-0.000000, -0.091900, 4.712400\n-0.000000, -0.183700, 4.712400\n-0.000000, -0.275600, 4.712400\n-0.000000, -0.367400, 4.712400\n-0.000000, -0.459300, 4.712400\n-0.000000, -0.551200, 4.712400\n0.010400, -0.642200, 4.959700\n0.044500, -0.727100, 5.228700\n0.100000, -0.800000, 5.497800\nskip_c: startangle_c:, skip_f 6\n0.000000, 0.000000, 4.712400\n-0.000000, -0.091900, 4.712400\n-0.000000, -0.183700, 4.712400\n-0.000000, -0.275600, 4.712400\n-0.000000, -0.367400, 4.712400\n-0.000000, -0.459300, 4.712400\n-0.000000, -0.551200, 4.712400\n-0.010400, -0.642200, 4.465100\n-0.044500, -0.727100, 4.196000\n-0.100000, -0.800000, 3.927000\nskip_c: startangle_c:, skip_f 7\n0.000000, 0.000000, 5.497800\n0.011100, -0.011100, 5.497800\n0.022200, -0.022200, 5.497800\n0.033300, -0.033300, 5.497800\n0.044400, -0.044400, 5.497800\n0.055600, -0.055600, 5.497800\n0.066700, -0.066700, 5.497800\n0.077800, -0.077800, 5.497800\n0.088900, -0.088900, 5.497800\n0.100000, -0.100000, 5.497800\nskip_c: startangle_c:, skip_f 7\n0.000000, 0.000000, 5.497800\n0.066700, -0.066700, 5.497800\n0.133300, -0.133300, 5.497800\n0.200000, -0.200000, 5.497800\n0.266700, -0.266700, 5.497800\n0.333300, -0.333300, 5.497800\n0.400000, -0.400000, 5.497800\n0.466700, -0.466700, 5.497800\n0.533300, -0.533300, 5.497800\n0.600000, -0.600000, 5.497800\nskip_c: startangle_c:, skip_f 7\n0.000000, 0.000000, 5.497800\n-0.011100, 0.011100, 5.497800\n-0.022200, 0.022200, 5.497800\n-0.033300, 0.033300, 5.497800\n-0.044400, 0.044400, 5.497800\n-0.055600, 0.055600, 5.497800\n-0.066700, 0.066700, 5.497800\n-0.077800, 0.077800, 5.497800\n-0.088900, 0.088900, 5.497800\n-0.100000, 0.100000, 5.497800\nskip_c: startangle_c:, skip_f 7\n0.000000, 0.000000, 5.497800\n0.069600, -0.069600, 5.497800\n0.139300, -0.139300, 5.497800\n0.208900, -0.208900, 5.497800\n0.278500, -0.278500, 5.497800\n0.348200, -0.348200, 5.497800\n0.422700, -0.412400, 5.671300\n0.508500, -0.460400, 5.875300\n0.602200, -0.490000, 6.079200\n0.700000, -0.500000, 6.283200\nskip_c: startangle_c:, skip_f 7\n0.000000, 0.000000, 5.497800\n0.069600, -0.069600, 5.497800\n0.139300, -0.139300, 5.497800\n0.208900, -0.208900, 5.497800\n0.278500, -0.278500, 5.497800\n0.348200, -0.348200, 5.497800\n0.412400, -0.422700, 5.324300\n0.460400, -0.508500, 5.120300\n0.490000, -0.602200, 4.916400\n0.500000, -0.700000, 4.712400\ndir: 0 prim: 0\n0.000000 0.000000 0.000000\n0.011100 0.000000 0.000000\n0.022200 0.000000 0.000000\n0.033300 0.000000 0.000000\n0.044400 0.000000 0.000000\n0.055600 0.000000 0.000000\n0.066700 0.000000 0.000000\n0.077800 0.000000 0.000000\n0.088900 0.000000 0.000000\n0.100000 0.000000 0.000000\ndir: 0 prim: 1\n0.000000 0.000000 0.000000\n0.088900 0.000000 0.000000\n0.177800 0.000000 0.000000\n0.266700 0.000000 0.000000\n0.355600 0.000000 0.000000\n0.444400 0.000000 0.000000\n0.533300 0.000000 0.000000\n0.622200 0.000000 0.000000\n0.711100 0.000000 0.000000\n0.800000 0.000000 0.000000\ndir: 0 prim: 2\n0.000000 0.000000 0.000000\n-0.011100 0.000000 0.000000\n-0.022200 0.000000 0.000000\n-0.033300 0.000000 0.000000\n-0.044400 0.000000 0.000000\n-0.055600 0.000000 0.000000\n-0.066700 0.000000 0.000000\n-0.077800 0.000000 0.000000\n-0.088900 0.000000 0.000000\n-0.100000 0.000000 0.000000\ndir: 0 prim: 3\n0.000000 0.000000 0.000000\n0.091900 0.000000 0.000000\n0.183700 0.000000 0.000000\n0.275600 0.000000 0.000000\n0.367400 0.000000 0.000000\n0.459300 0.000000 0.000000\n0.551200 0.000000 0.000000\n0.642200 0.010400 0.247300\n0.727100 0.044500 0.516300\n0.800000 0.100000 0.785400\ndir: 0 prim: 4\n0.000000 0.000000 0.000000\n0.091900 0.000000 0.000000\n0.183700 0.000000 0.000000\n0.275600 0.000000 0.000000\n0.367400 0.000000 0.000000\n0.459300 0.000000 0.000000\n0.551200 0.000000 0.000000\n0.642200 -0.010400 -0.247300\n0.727100 -0.044500 -0.516300\n0.800000 -0.100000 -0.785400\ndir: 1 prim: 0\n0.000000 0.000000 0.785400\n0.011100 0.011100 0.785400\n0.022200 0.022200 0.785400\n0.033300 0.033300 0.785400\n0.044400 0.044400 0.785400\n0.055600 0.055600 0.785400\n0.066700 0.066700 0.785400\n0.077800 0.077800 0.785400\n0.088900 0.088900 0.785400\n0.100000 0.100000 0.785400\ndir: 1 prim: 1\n0.000000 0.000000 0.785400\n0.066700 0.066700 0.785400\n0.133300 0.133300 0.785400\n0.200000 0.200000 0.785400\n0.266700 0.266700 0.785400\n0.333300 0.333300 0.785400\n0.400000 0.400000 0.785400\n0.466700 0.466700 0.785400\n0.533300 0.533300 0.785400\n0.600000 0.600000 0.785400\ndir: 1 prim: 2\n0.000000 0.000000 0.785400\n-0.011100 -0.011100 0.785400\n-0.022200 -0.022200 0.785400\n-0.033300 -0.033300 0.785400\n-0.044400 -0.044400 0.785400\n-0.055600 -0.055600 0.785400\n-0.066700 -0.066700 0.785400\n-0.077800 -0.077800 0.785400\n-0.088900 -0.088900 0.785400\n-0.100000 -0.100000 0.785400\ndir: 1 prim: 3\n0.000000 0.000000 0.785400\n0.069600 0.069600 0.785400\n0.139300 0.139300 0.785400\n0.208900 0.208900 0.785400\n0.278500 0.278500 0.785400\n0.348200 0.348200 0.785400\n0.412400 0.422700 0.958900\n0.460400 0.508500 1.162900\n0.490000 0.602200 1.366800\n0.500000 0.700000 1.570800\ndir: 1 prim: 4\n0.000000 0.000000 0.785400\n0.069600 0.069600 0.785400\n0.139300 0.139300 0.785400\n0.208900 0.208900 0.785400\n0.278500 0.278500 0.785400\n0.348200 0.348200 0.785400\n0.422700 0.412400 0.611900\n0.508500 0.460400 0.407900\n0.602200 0.490000 0.204000\n0.700000 0.500000 0.000000\ndir: 2 prim: 0\n0.000000 0.000000 1.570800\n0.000000 0.011100 1.570800\n0.000000 0.022200 1.570800\n0.000000 0.033300 1.570800\n0.000000 0.044400 1.570800\n0.000000 0.055600 1.570800\n0.000000 0.066700 1.570800\n0.000000 0.077800 1.570800\n0.000000 0.088900 1.570800\n0.000000 0.100000 1.570800\ndir: 2 prim: 1\n0.000000 0.000000 1.570800\n0.000000 0.088900 1.570800\n0.000000 0.177800 1.570800\n0.000000 0.266700 1.570800\n0.000000 0.355600 1.570800\n0.000000 0.444400 1.570800\n0.000000 0.533300 1.570800\n0.000000 0.622200 1.570800\n0.000000 0.711100 1.570800\n0.000000 0.800000 1.570800\ndir: 2 prim: 2\n0.000000 0.000000 1.570800\n0.000000 -0.011100 1.570800\n0.000000 -0.022200 1.570800\n0.000000 -0.033300 1.570800\n0.000000 -0.044400 1.570800\n0.000000 -0.055600 1.570800\n0.000000 -0.066700 1.570800\n0.000000 -0.077800 1.570800\n0.000000 -0.088900 1.570800\n0.000000 -0.100000 1.570800\ndir: 2 prim: 3\n0.000000 0.000000 1.570800\n-0.000000 0.091900 1.570800\n-0.000000 0.183700 1.570800\n-0.000000 0.275600 1.570800\n-0.000000 0.367400 1.570800\n-0.000000 0.459300 1.570800\n-0.000000 0.551200 1.570800\n-0.010400 0.642200 1.818100\n-0.044500 0.727100 2.087100\n-0.100000 0.800000 2.356200\ndir: 2 prim: 4\n0.000000 0.000000 1.570800\n-0.000000 0.091900 1.570800\n-0.000000 0.183700 1.570800\n-0.000000 0.275600 1.570800\n-0.000000 0.367400 1.570800\n-0.000000 0.459300 1.570800\n-0.000000 0.551200 1.570800\n0.010400 0.642200 1.323500\n0.044500 0.727100 1.054400\n0.100000 0.800000 0.785400\ndir: 3 prim: 0\n0.000000 0.000000 2.356200\n-0.011100 0.011100 2.356200\n-0.022200 0.022200 2.356200\n-0.033300 0.033300 2.356200\n-0.044400 0.044400 2.356200\n-0.055600 0.055600 2.356200\n-0.066700 0.066700 2.356200\n-0.077800 0.077800 2.356200\n-0.088900 0.088900 2.356200\n-0.100000 0.100000 2.356200\ndir: 3 prim: 1\n0.000000 0.000000 2.356200\n-0.066700 0.066700 2.356200\n-0.133300 0.133300 2.356200\n-0.200000 0.200000 2.356200\n-0.266700 0.266700 2.356200\n-0.333300 0.333300 2.356200\n-0.400000 0.400000 2.356200\n-0.466700 0.466700 2.356200\n-0.533300 0.533300 2.356200\n-0.600000 0.600000 2.356200\ndir: 3 prim: 2\n0.000000 0.000000 2.356200\n0.011100 -0.011100 2.356200\n0.022200 -0.022200 2.356200\n0.033300 -0.033300 2.356200\n0.044400 -0.044400 2.356200\n0.055600 -0.055600 2.356200\n0.066700 -0.066700 2.356200\n0.077800 -0.077800 2.356200\n0.088900 -0.088900 2.356200\n0.100000 -0.100000 2.356200\ndir: 3 prim: 3\n0.000000 0.000000 2.356200\n-0.069600 0.069600 2.356200\n-0.139300 0.139300 2.356200\n-0.208900 0.208900 2.356200\n-0.278500 0.278500 2.356200\n-0.348200 0.348200 2.356200\n-0.422700 0.412400 2.529700\n-0.508500 0.460400 2.733700\n-0.602200 0.490000 2.937600\n-0.700000 0.500000 3.141600\ndir: 3 prim: 4\n0.000000 0.000000 2.356200\n-0.069600 0.069600 2.356200\n-0.139300 0.139300 2.356200\n-0.208900 0.208900 2.356200\n-0.278500 0.278500 2.356200\n-0.348200 0.348200 2.356200\n-0.412400 0.422700 2.182700\n-0.460400 0.508500 1.978700\n-0.490000 0.602200 1.774800\n-0.500000 0.700000 1.570800\ndir: 4 prim: 0\n0.000000 0.000000 3.141600\n-0.011100 0.000000 3.141600\n-0.022200 0.000000 3.141600\n-0.033300 0.000000 3.141600\n-0.044400 0.000000 3.141600\n-0.055600 0.000000 3.141600\n-0.066700 0.000000 3.141600\n-0.077800 0.000000 3.141600\n-0.088900 0.000000 3.141600\n-0.100000 0.000000 3.141600\ndir: 4 prim: 1\n0.000000 0.000000 3.141600\n-0.088900 0.000000 3.141600\n-0.177800 0.000000 3.141600\n-0.266700 0.000000 3.141600\n-0.355600 0.000000 3.141600\n-0.444400 0.000000 3.141600\n-0.533300 0.000000 3.141600\n-0.622200 0.000000 3.141600\n-0.711100 0.000000 3.141600\n-0.800000 0.000000 3.141600\ndir: 4 prim: 2\n0.000000 0.000000 3.141600\n0.011100 0.000000 3.141600\n0.022200 0.000000 3.141600\n0.033300 0.000000 3.141600\n0.044400 0.000000 3.141600\n0.055600 0.000000 3.141600\n0.066700 0.000000 3.141600\n0.077800 0.000000 3.141600\n0.088900 0.000000 3.141600\n0.100000 0.000000 3.141600\ndir: 4 prim: 3\n0.000000 0.000000 3.141600\n-0.091900 0.000000 3.141600\n-0.183700 0.000000 3.141600\n-0.275600 0.000000 3.141600\n-0.367400 0.000000 3.141600\n-0.459300 0.000000 3.141600\n-0.551200 0.000000 3.141600\n-0.642200 -0.010400 3.388900\n-0.727100 -0.044500 3.657900\n-0.800000 -0.100000 3.927000\ndir: 4 prim: 4\n0.000000 0.000000 3.141600\n-0.091900 0.000000 3.141600\n-0.183700 0.000000 3.141600\n-0.275600 0.000000 3.141600\n-0.367400 0.000000 3.141600\n-0.459300 0.000000 3.141600\n-0.551200 0.000000 3.141600\n-0.642200 0.010400 2.894300\n-0.727100 0.044500 2.625200\n-0.800000 0.100000 2.356200\ndir: 5 prim: 0\n0.000000 0.000000 3.927000\n-0.011100 -0.011100 3.927000\n-0.022200 -0.022200 3.927000\n-0.033300 -0.033300 3.927000\n-0.044400 -0.044400 3.927000\n-0.055600 -0.055600 3.927000\n-0.066700 -0.066700 3.927000\n-0.077800 -0.077800 3.927000\n-0.088900 -0.088900 3.927000\n-0.100000 -0.100000 3.927000\ndir: 5 prim: 1\n0.000000 0.000000 3.927000\n-0.066700 -0.066700 3.927000\n-0.133300 -0.133300 3.927000\n-0.200000 -0.200000 3.927000\n-0.266700 -0.266700 3.927000\n-0.333300 -0.333300 3.927000\n-0.400000 -0.400000 3.927000\n-0.466700 -0.466700 3.927000\n-0.533300 -0.533300 3.927000\n-0.600000 -0.600000 3.927000\ndir: 5 prim: 2\n0.000000 0.000000 3.927000\n0.011100 0.011100 3.927000\n0.022200 0.022200 3.927000\n0.033300 0.033300 3.927000\n0.044400 0.044400 3.927000\n0.055600 0.055600 3.927000\n0.066700 0.066700 3.927000\n0.077800 0.077800 3.927000\n0.088900 0.088900 3.927000\n0.100000 0.100000 3.927000\ndir: 5 prim: 3\n0.000000 0.000000 3.927000\n-0.069600 -0.069600 3.927000\n-0.139300 -0.139300 3.927000\n-0.208900 -0.208900 3.927000\n-0.278500 -0.278500 3.927000\n-0.348200 -0.348200 3.927000\n-0.412400 -0.422700 4.100500\n-0.460400 -0.508500 4.304500\n-0.490000 -0.602200 4.508400\n-0.500000 -0.700000 4.712400\ndir: 5 prim: 4\n0.000000 0.000000 3.927000\n-0.069600 -0.069600 3.927000\n-0.139300 -0.139300 3.927000\n-0.208900 -0.208900 3.927000\n-0.278500 -0.278500 3.927000\n-0.348200 -0.348200 3.927000\n-0.422700 -0.412400 3.753500\n-0.508500 -0.460400 3.549500\n-0.602200 -0.490000 3.345600\n-0.700000 -0.500000 3.141600\ndir: 6 prim: 0\n0.000000 0.000000 4.712400\n0.000000 -0.011100 4.712400\n0.000000 -0.022200 4.712400\n0.000000 -0.033300 4.712400\n0.000000 -0.044400 4.712400\n0.000000 -0.055600 4.712400\n0.000000 -0.066700 4.712400\n0.000000 -0.077800 4.712400\n0.000000 -0.088900 4.712400\n0.000000 -0.100000 4.712400\ndir: 6 prim: 1\n0.000000 0.000000 4.712400\n0.000000 -0.088900 4.712400\n0.000000 -0.177800 4.712400\n0.000000 -0.266700 4.712400\n0.000000 -0.355600 4.712400\n0.000000 -0.444400 4.712400\n0.000000 -0.533300 4.712400\n0.000000 -0.622200 4.712400\n0.000000 -0.711100 4.712400\n0.000000 -0.800000 4.712400\ndir: 6 prim: 2\n0.000000 0.000000 4.712400\n0.000000 0.011100 4.712400\n0.000000 0.022200 4.712400\n0.000000 0.033300 4.712400\n0.000000 0.044400 4.712400\n0.000000 0.055600 4.712400\n0.000000 0.066700 4.712400\n0.000000 0.077800 4.712400\n0.000000 0.088900 4.712400\n0.000000 0.100000 4.712400\ndir: 6 prim: 3\n0.000000 0.000000 4.712400\n-0.000000 -0.091900 4.712400\n-0.000000 -0.183700 4.712400\n-0.000000 -0.275600 4.712400\n-0.000000 -0.367400 4.712400\n-0.000000 -0.459300 4.712400\n-0.000000 -0.551200 4.712400\n0.010400 -0.642200 4.959700\n0.044500 -0.727100 5.228700\n0.100000 -0.800000 5.497800\ndir: 6 prim: 4\n0.000000 0.000000 4.712400\n-0.000000 -0.091900 4.712400\n-0.000000 -0.183700 4.712400\n-0.000000 -0.275600 4.712400\n-0.000000 -0.367400 4.712400\n-0.000000 -0.459300 4.712400\n-0.000000 -0.551200 4.712400\n-0.010400 -0.642200 4.465100\n-0.044500 -0.727100 4.196000\n-0.100000 -0.800000 3.927000\ndir: 7 prim: 0\n0.000000 0.000000 5.497800\n0.011100 -0.011100 5.497800\n0.022200 -0.022200 5.497800\n0.033300 -0.033300 5.497800\n0.044400 -0.044400 5.497800\n0.055600 -0.055600 5.497800\n0.066700 -0.066700 5.497800\n0.077800 -0.077800 5.497800\n0.088900 -0.088900 5.497800\n0.100000 -0.100000 5.497800\ndir: 7 prim: 1\n0.000000 0.000000 5.497800\n0.066700 -0.066700 5.497800\n0.133300 -0.133300 5.497800\n0.200000 -0.200000 5.497800\n0.266700 -0.266700 5.497800\n0.333300 -0.333300 5.497800\n0.400000 -0.400000 5.497800\n0.466700 -0.466700 5.497800\n0.533300 -0.533300 5.497800\n0.600000 -0.600000 5.497800\ndir: 7 prim: 2\n0.000000 0.000000 5.497800\n-0.011100 0.011100 5.497800\n-0.022200 0.022200 5.497800\n-0.033300 0.033300 5.497800\n-0.044400 0.044400 5.497800\n-0.055600 0.055600 5.497800\n-0.066700 0.066700 5.497800\n-0.077800 0.077800 5.497800\n-0.088900 0.088900 5.497800\n-0.100000 0.100000 5.497800\ndir: 7 prim: 3\n0.000000 0.000000 5.497800\n0.069600 -0.069600 5.497800\n0.139300 -0.139300 5.497800\n0.208900 -0.208900 5.497800\n0.278500 -0.278500 5.497800\n0.348200 -0.348200 5.497800\n0.422700 -0.412400 5.671300\n0.508500 -0.460400 5.875300\n0.602200 -0.490000 6.079200\n0.700000 -0.500000 6.283200\ndir: 7 prim: 4\n0.000000 0.000000 5.497800\n0.069600 -0.069600 5.497800\n0.139300 -0.139300 5.497800\n0.208900 -0.208900 5.497800\n0.278500 -0.278500 5.497800\n0.348200 -0.348200 5.497800\n0.412400 -0.422700 5.324300\n0.460400 -0.508500 5.120300\n0.490000 -0.602200 4.916400\n0.500000 -0.700000 4.712400",
+			"fp:",
+			"fp",
+			"planned action leads to collision",
+			"collision",
+			"terminated by user",
+			"h_d",
+			"NULL",
+			"NAN",
+			"&",
+			"fscanf",
+			"parse",
+			"mprim",
+			"];",
+			"\\.....00",
+			"&",
+			"&mprim",
+			"fscanf",
+			"prim",
+			"parseMotionPrimitives",
+			"closedSet",
+			"clear",
+			"closedSet",
+			"openSet",
+			"mprim",
+			"PrimArray",
+			"robotpose",
+			"GETMAPINDEX",
+			"goalpose",
+			"current.",
+			"GETMAP",
+			"RES",
+			"current.",
+			"current",
+			"/RES",
+			"newy/RES",
+			"new./RES",
+			"/RES",
+			"openDict",
+			"0\\.5",
+			"int",
+			"int goalpose[^_]",
+			"int goalposeY",
+			"int goalpose",
+			"goalposeY",
+			"int",
+			"=",
+			">= x_",
+			"gridpos",
+			"robotpose",
+			"robotposeX",
+			"+0",
+			"float",
+			"PrimArray",
+			"float",
+			"%",
+			"h_d",
+			"mexPrintf\\(\\\"segfa",
+			"map",
+			"openDict",
+			"closedSet",
+			" ",
+			"\n\n\n",
+			"\n\n",
+			"   ",
+			"ans =\n\n     4   ",
+			"dir",
+			"*new",
+			"*newx",
+			"prim",
+			"planned action",
+			"robotpose",
+			"gridposy",
+			"gridposx",
+			"prim",
+			"h_dict",
+			"push",
+			"top",
+			"planned action",
+			"(int)GETMAPINDEX",
+			"RES"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3075,
+								3075
+							],
+							[
+								3793,
+								3793
+							],
+							[
+								4456,
+								4456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "underconstruction.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "aboutme.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "elements.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13809,
+								13814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5955.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "diy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1934,
+								1965
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 646.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "generic.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
